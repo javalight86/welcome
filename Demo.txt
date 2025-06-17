@@ -1,2 +1,6 @@
 Java is really best.
 Java is an object oriented programming.
+Java have following 2 main features:
+1. Platform Independency
+2. Security
+
